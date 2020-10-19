@@ -4,8 +4,17 @@ Check out this sweet repo! We're going to use it to practice Forking a repo, Clo
 
 ## Goals
 
-* Add a file
-* Put a `console.log` in `file1.js`
+* Add a file to repo called `app.js` and `index.html`
+* Put the following in your `app.js` file
+
+```javascript
+let name = 'Rome Bell';
+console.log(name);
+
+// I know I'm cool but put your name instead. 😎
+```
+
+* Leave your `index.html` file empty for now.
 * Make a pull request
 
 ## Get started
